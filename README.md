@@ -7,7 +7,7 @@ Tasks Manager is a Node.js application built with Express.js, MongoDB, Passport.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/bahaa-alden/tasks-manager.git
+   git clone https://github.com/MahamdSirafi/tasks-manager.git
    ```
 
 2. **Install Dependencies**
